@@ -1,5 +1,5 @@
 # MineSweeper
-Mips assembly code used to make Minesweeper
+Mips assembly code used to make Minesweeper \n
 The Software used is MIPSym
 http://mipsym.com/
 As of recently the link is down to downlaod the software yourself
